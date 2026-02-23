@@ -1,18 +1,24 @@
-body {    
-    font-family: Arial,sans-serif;
-    color: #c51616;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+body {
+
+font-family: Arial, sans-serif;
+
+color: #333;
+
+background-color: #f9f9f9;
+
+margin: 0;
+
+padding: 0;
+
+line-height: 1.6;
 
 }
 
 header {
 
-background-color: #d6840a;
+background-color: #20b925;
 
-color: rgb(6, 180, 49);
+color: white;
 
 padding: 20px;
 
@@ -30,7 +36,7 @@ margin: 0;
 
 nav a {
 
-color: rgb(255, 255, 255);
+color: white;
 
 text-decoration: none;
 
@@ -65,23 +71,5 @@ height: auto;
 display: block;
 
 margin: 20px 0;
-
-}
-
-footer {
-
-background-color: #db1e1e;
-
-color: rgb(42, 23, 206);
-
-text-align: center;
-
-padding: 10px;
-
-position: fixed;
-
-bottom: 0;
-
-width: 100%;
 
 }
