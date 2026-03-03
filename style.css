@@ -4,7 +4,7 @@ font-family: Arial, sans-serif;
 
 color: #333;
 
-background-color: #f9f9f9;
+background-color: #7cad43;
 
 margin: 0;
 
@@ -18,7 +18,7 @@ header {
 
 background-color: #20b925;
 
-color: white;
+color: rgb(129, 41, 41);
 
 padding: 20px;
 
@@ -36,7 +36,7 @@ margin: 0;
 
 nav a {
 
-color: white;
+color: rgb(168, 53, 53);
 
 text-decoration: none;
 
